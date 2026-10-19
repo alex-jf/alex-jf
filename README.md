@@ -1,0 +1,26 @@
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><img src="assets/header-light.svg" alt="Alexandr Goncharov. Engineering leader, founder, design engineer."></picture>
+
+Building for the web since the late 90s, from art direction and 3D to graph databases, WebGL and AI tooling. Five years at Mews, latterly leading developer experience across product engineering, now back to full-time entrepreneurship at [FirstEnvision](https://firstenvision.com) in Prague.
+
+[firstenvision.com](https://firstenvision.com) · [LinkedIn](https://www.linkedin.com/in/alex-firstenvision)
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg"><img src="assets/activity-light.svg" alt="5,366 commits in the 12 months to 19 Oct 2026, across 97 private repositories"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-dark.svg"><img src="assets/work-light.svg" alt="Selected work"></picture>
+
+<a href="https://iterozen.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-iterozen-dark.svg"><img src="assets/card-iterozen-light.svg" alt="IteroZen: Tasks, offers and quotes in one loop, built as multi-tenant SaaS for web, desktop and macOS. Coding agents work its board end to end over MCP, each on a scoped credential bound to a human owner." width="49.5%"></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-ai-delivery-dark.svg"><img src="assets/card-ai-delivery-light.svg" alt="AI delivery: Model choice and spend made measurable on client builds: every call ledgered with its cost, models picked per task by evaluation, and a cheap Jev clustering layer ahead of the LLM to cut what it reads." width="49.5%"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-dx-dark.svg"><img src="assets/card-dx-light.svg" alt="Developer Experience lead: Led developer experience across several DX teams at Mews: the build, CI and dev loop every product team ran on, then AI tooling rolled out across teams and into R&amp;D, Support and Finance." width="49.5%"></picture>
+<a href="https://developers.mews.com/project-spacetime/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-spacetime-dark.svg"><img src="assets/card-spacetime-light.svg" alt="Project Spacetime: Led the frontend in the CTO-led team that rebuilt the Mews booking core, so one space sells as a bedroom, an office or a meeting room, by the hour, the night or the month." width="49.5%"></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-mymonday-dark.svg"><img src="assets/card-mymonday-light.svg" alt="MyMonday: A skills-graph platform for fairer hiring. Skills, people, roles and open positions in one graph on Neo4j, so matching became a traversal instead of a search." width="49.5%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-nodekin-dark.svg"><img src="assets/card-nodekin-light.svg" alt="NodeKin: A drop-in graph database for Neo4j drivers, embedded or as a tiny server: one Rust binary, one file per database, up in 0.13 s. In preparation since the MyMonday skills graph, built in 2026." width="49.5%"></picture>
+
+<a href="https://firstenvision.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-firstenvision-dark.svg"><img src="assets/card-firstenvision-light.svg" alt="FirstEnvision: Design, research and development studio in Prague. Began in 2011 as an independent practice for clients including the United Nations and the Blender Foundation; incorporated in 2013."></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg"><img src="assets/timeline-light.svg" alt="Path from 2008 to 2026: Bellerbys College, Southampton, FirstEnvision, MyMonday, Mews"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/industries-dark.svg"><img src="assets/industries-light.svg" alt="Industries across 69 engagements"></picture>
+
+<sub>Most of my work is client or proprietary, so it lives in private repositories. The commit history above is real, and the code stays private. I'm happy to walk through any of it on a call.</sub>
