@@ -19,7 +19,7 @@ Building for the web since the late 90s, from art direction and 3D to graph data
 
 <a href="https://firstenvision.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alex-jf/alex-jf/main/assets/card-firstenvision-dark.svg?v=9761ea92a1"><img src="https://raw.githubusercontent.com/alex-jf/alex-jf/main/assets/card-firstenvision-light.svg?v=cca38a4816" alt="FirstEnvision: Design, research and development studio in Prague. Began in 2011 as an independent practice for clients including the United Nations and the Blender Foundation; incorporated in 2013."></picture></a>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alex-jf/alex-jf/main/assets/timeline-dark.svg?v=0b74a8fc23"><img src="https://raw.githubusercontent.com/alex-jf/alex-jf/main/assets/timeline-light.svg?v=354a410139" alt="Path from 2008 to 2026: Bellerbys College, Southampton, FirstEnvision, MyMonday, Mews"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alex-jf/alex-jf/main/assets/timeline-dark.svg?v=68d40075f1"><img src="https://raw.githubusercontent.com/alex-jf/alex-jf/main/assets/timeline-light.svg?v=cce215cc93" alt="Path from 2008 to 2026: Bellerbys College, Southampton, FirstEnvision, MyMonday, Mews"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alex-jf/alex-jf/main/assets/industries-dark.svg?v=fa47d90f12"><img src="https://raw.githubusercontent.com/alex-jf/alex-jf/main/assets/industries-light.svg?v=9f5b219329" alt="Industries across 69 engagements"></picture>
 
